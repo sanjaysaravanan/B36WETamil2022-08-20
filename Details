@@ -1,0 +1,53 @@
+Topics:
+
+  Objects & Iteration Of Objects
+    
+    Objects are programmatical representation real time entity
+    property <-> values structure
+
+    Iteration:
+      for in --> iterates throw the keys of the Objects
+
+      Object.keys --> gives an array of keys of an object
+        which can be iterated 
+
+      Object.values --> gives an array of values
+
+  function
+    combining set of statements into a function/block which can be executed anywhere anytime in a single statements
+
+    definition ---> defining a set of statements a function executed
+    calling ---> <function-name>()
+
+    parameter/arguements --> values that being expected from a function a function execution 
+      which will be used by the statements inside it.
+
+    return ---> output of a function
+      which can used to assign/use it others areas of the codebase
+    
+  
+  Copy By values
+
+  Copy By Reference
+
+  Scopes
+    gloabl top level codes, function, block {} 
+  
+  
+  ES6:
+    variable types:
+      var ---> variable
+      let ---> let it be as this in the scope
+      const ---> const fixed value with in a scope
+        1. re-initialization not allowed
+        2. decalration and initialization is must
+	      3. no simple assignment is allowed
+
+  Next Session:
+    Few More ES6features:
+      Template Literals
+      Object Short Hand
+      Destructuring
+      Spread & Rest
+
+
