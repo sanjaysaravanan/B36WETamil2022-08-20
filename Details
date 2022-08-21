@@ -26,9 +26,10 @@ Topics:
       which can used to assign/use it others areas of the codebase
     
   
-  Copy By values
+  Copy By values --> passing primitive type (eg. Number, string ) as paramters to a function. 
+  		     so function execution does not affect the value of the variable in top level
 
-  Copy By Reference
+  Copy By Reference --> passing parameter as objs or array ( compsite types )
 
   Scopes
     gloabl top level codes, function, block {} 
